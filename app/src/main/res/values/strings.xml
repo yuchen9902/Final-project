@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Love calculator</string>
+    <string name="lovecalculator">Lovecalculator</string>
+    <string name="ready_to_calculate">Ready to calculate?</string>
+    <string name="no_thanks">No, thanks.</string>
+    <string name="yes_please">Yes, please!</string>
 </resources>
